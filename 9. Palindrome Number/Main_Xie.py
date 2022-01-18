@@ -51,6 +51,7 @@ class Solution:
         return behind == front
 
 
+
 if __name__ == '__main__':
     solution = Solution()
     print(solution.isPalindrome(12211221))
